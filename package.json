@@ -1,0 +1,12 @@
+{
+  "name": "micro",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "shfshanyue",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "ts-node": "^10.6.0"
+  }
+}
